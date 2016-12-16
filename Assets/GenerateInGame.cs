@@ -5,7 +5,7 @@ using GenerateTest01;
 public class GenerateInGame : MonoBehaviour {
 
     public IslandGO islandObject;
-
+    public int Hell;
     public int islandsMin=50, lifeCicles=25;
     [Range(1f,45f)]
     public float percentDropTrash;
